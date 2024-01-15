@@ -33,7 +33,16 @@ git clone https://github.com/your-username/arise-package-manager.git
 cd arise-package-manager
 
 # Make the script executable
-chmod +x arise.sh
+chmod +x arise.sh 
+
 
 # Run Arise interactively
 ./arise.sh interactive
+
+### Additional Configuration
+alias arise="~/path/to/arise.sh" # Replace ~/path/to/arise.sh with the actual path to your arise.sh script.
+source ~/.bashrc Now you can use arise as a full command in Linux. Enjoy!
+Note: For any bugs, please contact me.
+
+
+
