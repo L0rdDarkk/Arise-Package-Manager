@@ -34,7 +34,7 @@ install_package() {
     progress_bar 5
     
     # Using apt-get for installation
-    sudo apt-get install -y "$package_name"
+    sudo apt-get install -y "$package_name" 2>&1
     
     echo -e "${GREEN}$package_name${NC} ${BLUE}installed successfully!${NC}"
 }
