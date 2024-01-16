@@ -1,7 +1,8 @@
 # Arise Package Manager
 
 Arise is a simple yet powerful package manager for Ubuntu, created by Juled aka L0rdDarkk.
-![Arise Logo ]([https://github.com/yourusername/yourrepo/raw/main/path/to/logo.png)]
+![Arise Package Manager Logo](https://raw.githubusercontent.com/L0rdDarkk/Arise-Package-Manager/main/arise.png)
+
 
 ## Features
 
